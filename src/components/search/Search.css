@@ -1,4 +1,17 @@
 .search {
-  text-align: center;
-  background-color: green;
+  width: 700px;
+
+  padding: 15px;
+
+  border-radius: 35px;
+  border: 1px solid lightsteelblue;
+  box-shadow: lightslategray 0 0 2px;
+  outline: none;
+  font-size: 20px;
 }
+
+.search:hover {
+  box-shadow: lightslategray 0 0 4px;
+}
+
+

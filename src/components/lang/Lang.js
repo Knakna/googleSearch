@@ -6,7 +6,7 @@ function Lang() {
   return (
     <p className="lang">
      Сервисы Google доступны на разных языках:
-     <a href="#">Беларуская</a>
+     <a href="tut.by">Беларуская</a>
     </p>
   );
 }

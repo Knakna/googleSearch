@@ -1,15 +1,16 @@
 import React from 'react';
+import './Header.css';
 
 
 
 
 function Header() {
   return (
-   <h1>
+   <h1 className="title">
      Title
    </h1>
 
   );
 }
 
-export default Logo;
+export default Header;

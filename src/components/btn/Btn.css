@@ -1,3 +1,18 @@
 .btn {
-  background-color: blue;
+  margin: 20px;
+  padding: 10px;
+
+  background-color: rgb(216, 225, 236);
+  border: none;
+  border-radius: 5px;
+
+  cursor: pointer;
+}
+
+.btn:hover {
+
+  background-color: rgb(189, 203, 221);
+
+
+  cursor: pointer;
 }
