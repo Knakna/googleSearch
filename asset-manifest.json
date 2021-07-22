@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/googleSearch/static/css/main.1b51617a.chunk.css",
+    "main.js": "/googleSearch/static/js/main.eee426e8.chunk.js",
+    "main.js.map": "/googleSearch/static/js/main.eee426e8.chunk.js.map",
+    "runtime-main.js": "/googleSearch/static/js/runtime-main.9c0345ea.js",
+    "runtime-main.js.map": "/googleSearch/static/js/runtime-main.9c0345ea.js.map",
+    "static/js/2.163f1dba.chunk.js": "/googleSearch/static/js/2.163f1dba.chunk.js",
+    "static/js/2.163f1dba.chunk.js.map": "/googleSearch/static/js/2.163f1dba.chunk.js.map",
+    "static/js/3.2f227a46.chunk.js": "/googleSearch/static/js/3.2f227a46.chunk.js",
+    "static/js/3.2f227a46.chunk.js.map": "/googleSearch/static/js/3.2f227a46.chunk.js.map",
+    "index.html": "/googleSearch/index.html",
+    "static/css/main.1b51617a.chunk.css.map": "/googleSearch/static/css/main.1b51617a.chunk.css.map",
+    "static/js/2.163f1dba.chunk.js.LICENSE.txt": "/googleSearch/static/js/2.163f1dba.chunk.js.LICENSE.txt",
+    "static/media/google.8d578c19.png": "/googleSearch/static/media/google.8d578c19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0345ea.js",
+    "static/js/2.163f1dba.chunk.js",
+    "static/css/main.1b51617a.chunk.css",
+    "static/js/main.eee426e8.chunk.js"
+  ]
+}
